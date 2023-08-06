@@ -1,0 +1,40 @@
+.mainPage {
+    display:flex;
+    justify-content: center;
+}
+
+.sidePanel {
+    padding-left: 20px;
+    
+}
+
+.cart {
+    border: solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.checkout {
+    border: solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.birdCard {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        margin: 10px;
+        width: 300px;
+        border: solid;
+        border-radius: 5px;
+        background-color: lightskyblue;
+
+}
